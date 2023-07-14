@@ -3,6 +3,7 @@ Angela Yu's Python Bootcamp Day 16/100
 
 ## Brief Overview
 The project imitates a coffee vending machine.
+
 Customers select an order, pay for it, and receive it.
 Specific "codes" can be inputted for the admin privileges of the machine.
 
@@ -10,3 +11,6 @@ Specific "codes" can be inputted for the admin privileges of the machine.
 ```
 python3 main.py
 ```
+
+## Project Demo
+<img src="https://github.com/caljzl98/oop-coffee-machine-D16/blob/main/project-demo.png" alt="project demo in VSC terminal" width="500">
