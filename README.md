@@ -14,3 +14,8 @@ python3 main.py
 
 ## Project Demo
 <img src="https://github.com/caljzl98/oop-coffee-machine-D16/blob/main/project-demo.png" alt="project demo in VSC terminal" width="500">
+
+## Specifications
+[Program requirements in PDF](https://github.com/caljzl98/oop-coffee-machine-D16/blob/main/Coffee%2BMachine%2BProgram%2BRequirements.pdf)
+
+["External" libaries for the program in PDF](https://github.com/caljzl98/oop-coffee-machine-D16/blob/main/Coffee%2BMachine%2BClasses%2BDocumentation.pdf)
